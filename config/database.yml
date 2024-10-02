@@ -27,5 +27,5 @@ production:
   pool: 5
   database: test_render_2ejb
   username: test_render_2ejb_user
-  password: <%= ENV['f0YaXY8d3gwtgHesw8xR9sFVyAXRvkv8'] %>
-  url: <%= ENV['postgresql://test_render_2ejb_user:f0YaXY8d3gwtgHesw8xR9sFVyAXRvkv8@dpg-cruf54dumphs73emaljg-a/test_render_2ejb'] %>
+  password: f0YaXY8d3gwtgHesw8xR9sFVyAXRvkv8
+  url: postgresql://test_render_2ejb_user:f0YaXY8d3gwtgHesw8xR9sFVyAXRvkv8@dpg-cruf54dumphs73emaljg-a/test_render_2ejb
